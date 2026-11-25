@@ -1,7 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,50:203a43,100:0f2027&height=150&section=header" width="100%" alt="Header" />
-
-<h1 align="center">Hi 👋, I'm Paresh Kumar Pradhan</h1>
-<h3 align="center">Full Stack & GenAI Developer — building AI agents, RAG systems and scalable web apps</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2F81F7&height=200&section=header&text=Paresh%20Kumar%20Pradhan&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20%26%20GenAI%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Header" />
 
 <p align="center">
   <a href="https://github.com/Pareshkumarpradhan"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+%40+Crawlink;Building+Multi-Agent+AI+Systems+%F0%9F%A4%96;RAG+%7C+LangChain+%7C+LangGraph;TypeScript+%7C+SvelteKit+%7C+React+%7C+Python" alt="Typing SVG" /></a>
@@ -84,10 +81,10 @@ const paresh = {
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Pareshkumarpradhan/exokartclaw-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pareshkumarpradhan&repo=exokartclaw-bot&theme=tokyonight&hide_border=true&description_lines_count=3" alt="exokartclaw-bot" /></a>
-  <a href="https://github.com/Pareshkumarpradhan/Multi-Agent-AI-Research-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pareshkumarpradhan&repo=Multi-Agent-AI-Research-System&theme=tokyonight&hide_border=true&description_lines_count=3" alt="Multi-Agent AI Research System" /></a>
-  <a href="https://github.com/Pareshkumarpradhan/RAG-AI-Video-Assistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pareshkumarpradhan&repo=RAG-AI-Video-Assistant&theme=tokyonight&hide_border=true&description_lines_count=3" alt="AI Video Assistant" /></a>
-  <a href="https://github.com/Pareshkumarpradhan/pdf-search-rag"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pareshkumarpradhan&repo=pdf-search-rag&theme=tokyonight&hide_border=true&description_lines_count=3" alt="PDF Search RAG" /></a>
+  <a href="https://github.com/Pareshkumarpradhan/exokartclaw-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pareshkumarpradhan&repo=exokartclaw-bot&theme=tokyonight&hide_border=true&description_lines_count=3" width="49%" alt="exokartclaw-bot" /></a>
+  <a href="https://github.com/Pareshkumarpradhan/Multi-Agent-AI-Research-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pareshkumarpradhan&repo=Multi-Agent-AI-Research-System&theme=tokyonight&hide_border=true&description_lines_count=3" width="49%" alt="Multi-Agent AI Research System" /></a>
+  <a href="https://github.com/Pareshkumarpradhan/RAG-AI-Video-Assistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pareshkumarpradhan&repo=RAG-AI-Video-Assistant&theme=tokyonight&hide_border=true&description_lines_count=3" width="49%" alt="AI Video Assistant" /></a>
+  <a href="https://github.com/Pareshkumarpradhan/pdf-search-rag"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pareshkumarpradhan&repo=pdf-search-rag&theme=tokyonight&hide_border=true&description_lines_count=3" width="49%" alt="PDF Search RAG" /></a>
 </p>
 
 <details>
