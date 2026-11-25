@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2F81F7&height=200&section=header&text=Paresh%20Kumar%20Pradhan&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20%26%20GenAI%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Header" />
+<img src="./header.svg" width="100%" alt="Paresh Kumar Pradhan — Full Stack & GenAI Developer" />
 
 <p align="center">
   <a href="https://github.com/Pareshkumarpradhan"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+%40+Crawlink;Building+Multi-Agent+AI+Systems+%F0%9F%A4%96;RAG+%7C+LangChain+%7C+LangGraph;TypeScript+%7C+SvelteKit+%7C+React+%7C+Python" alt="Typing SVG" /></a>
@@ -120,4 +120,4 @@ const paresh = {
 
 <p align="center">⭐ If you like my work, consider starring a repo — it means a lot!</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,50:203a43,100:0f2027&height=110&section=footer" width="100%" alt="Footer" />
+<img src="./footer.svg" width="100%" alt="" />
